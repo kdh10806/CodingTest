@@ -2,7 +2,6 @@
 # 그 다음 서로 다른 값이 몇개 있는지를 출력하라
 
 A = []
-
 for i in range(10):
     x = int(input())
     x = x%42
