@@ -1,5 +1,4 @@
 S = input()
-
 alphabet = "abcdefghijklmnopqrstuvwxyz"
 
 for i in alphabet:
